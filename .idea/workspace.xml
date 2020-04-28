@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e53cd936-434a-4aa3-8356-16e3bcb01e59" name="Default Changelist" comment="Test Changes!" />
+    <list default="true" id="e53cd936-434a-4aa3-8356-16e3bcb01e59" name="Default Changelist" comment="Test Changes!">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
