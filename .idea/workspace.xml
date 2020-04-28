@@ -10,9 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e53cd936-434a-4aa3-8356-16e3bcb01e59" name="Default Changelist" comment="Test Changes!">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="e53cd936-434a-4aa3-8356-16e3bcb01e59" name="Default Changelist" comment="Test Changes!11" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +67,21 @@
       <option name="project" value="LOCAL" />
       <updated>1588068196448</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Test Changes!">
+      <created>1588069649672</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588069649672</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Test Changes!11">
+      <created>1588069664490</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1588069664490</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,7 +99,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Two new filed were added." />
     <MESSAGE value="Test Changes!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test Changes!" />
+    <MESSAGE value="Test Changes!11" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test Changes!11" />
   </component>
   <component name="WindowStateProjectService">
     <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1587998813867">
